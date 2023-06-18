@@ -17,19 +17,19 @@ install.packages("ggplot2")
 &nbsp;  
 &nbsp;  
 #### 2. Se cargan los datos
-<img title="a title" alt="Alt text" src="/images/Image1.jpg" width=70% height=70%>
+<img title="a title" alt="Alt text" src="./images/Image1.jpg" width=70% height=70%>
 
 &nbsp;  
 &nbsp;  
 #### 3. Se calcula la reproducibilidad de los marcadores para todos los pares de repeticiones.
-<img title="a title" alt="Alt text" src="/images/Image2.jpg" width=70% height=70%>
+<img title="a title" alt="Alt text" src="./images/Image2.jpg" width=70% height=70%>
 
 &nbsp;  
 &nbsp;  
 #### 4. ¿Cuál es el efecto por retirar aquellos marcadores con baja reproducibilidad?
-<img title="a title" alt="Alt text" src="/images/Image3.jpg" width=70% height=70%>
+<img title="a title" alt="Alt text" src="./images/Image3.jpg" width=70% height=70%>
 
 &nbsp;  
 &nbsp;  
 #### 5. ¿Los marcadores eliminados tienen alguna característica que los defina?
-<img title="a title" alt="Alt text" src="/images/Image4.jpg" width=70% height=70%>
+<img title="a title" alt="Alt text" src="./images/Image4.jpg" width=70% height=70%>
