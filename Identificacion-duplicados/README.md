@@ -11,7 +11,7 @@ install.packages("ggplot2")
 ```
 &nbsp;  
 &nbsp;  
-#### 1. Se incluyen repeticiones de ADN a los largo de todos los envíos y se extraen únicamente los genotipos ordenados par pares de columnas.
+#### 1. Se incluyen repeticiones de ADN a los largo de todos los envíos y se extraen únicamente los genotipos de éstos, ordenados par pares de columnas.
 <img title="a title" alt="Alt text" src="./images/SilicoDArT_matriz_inicial.png" width=70% height=70%>
 
 &nbsp;  
